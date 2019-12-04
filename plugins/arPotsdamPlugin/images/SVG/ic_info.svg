@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_info</title>
+  <g>
+    <g>
+      <path d="M18.758,23.4h-.915v-8.23a.913.913,0,0,0-.914-.914H15.557a.914.914,0,0,0,0,1.828h.458V23.4l-.507.027a.915.915,0,0,0,0,1.829l1.421-.027h1.829a.915.915,0,0,0,0-1.829Z" fill="#222221"/>
+      <circle cx="16.655" cy="10.675" r="1.663" fill="#222221"/>
+    </g>
+    <circle cx="17" cy="17" r="14.288" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

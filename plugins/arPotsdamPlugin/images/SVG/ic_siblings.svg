@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_siblings</title>
+  <g>
+    <path d="M10.185,14.344v2.988a.441.441,0,0,0,.438.441l3.145.018" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M13.329,26.322h-8.1a.44.44,0,0,1-.441-.44v-11.1a.44.44,0,0,1,.441-.44h4.954l3.584,3.447v8.091A.44.44,0,0,1,13.329,26.322Z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M24.835,14.344v2.988a.441.441,0,0,0,.438.441l3.145.018" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M27.978,26.322h-8.1a.44.44,0,0,1-.44-.44v-11.1a.44.44,0,0,1,.44-.44h4.955l3.583,3.447v8.091A.44.44,0,0,1,27.978,26.322Z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <polyline points="9.28 11.989 9.28 9.933 16.555 9.933" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <polyline points="23.929 11.989 23.929 9.933 16.654 9.933" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="16.654" y1="9.78" x2="16.654" y2="7.729" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+</svg>

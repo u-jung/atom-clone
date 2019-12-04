@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_diplomatics</title>
+  <g>
+    <path d="M27.347,7.748V6.225a1.259,1.259,0,0,0-1.259-1.259H18.817a1.26,1.26,0,0,0-.917.4L16.029,7.352a1.257,1.257,0,0,1-.917.4H6.76A1.259,1.259,0,0,0,5.5,9.007V10.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M28.893,15.322V10.476a1.259,1.259,0,0,0-1.259-1.258H20.363a1.257,1.257,0,0,0-.916.4L17.576,11.6a1.26,1.26,0,0,1-.917.4H5.645a1.258,1.258,0,0,0-1.258,1.258v2.025" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M15.022,21.981v.97a.781.781,0,0,0,.781.781h3.53a.781.781,0,0,0,.781-.781v-.97" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M1.351,17.893a1,1,0,0,1,1-1h29.3a1,1,0,0,1,1,1V28.456a1,1,0,0,1-1,1" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M31.649,29.456H2.351a1,1,0,0,1-1-1V17.893" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

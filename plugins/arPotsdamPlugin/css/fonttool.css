@@ -1,0 +1,177 @@
+
+
+@font-face {
+  font-family: "WiegelKurrent";
+  src: url("../vendor/wiegel/wiegelkurrentmedium-webfont.eot");
+  src: url("../vendor/wiegel/wiegelkurrentmedium-webfont.eot?#iefix") format("embedded-opentype"), url("../vendor/wiegel/wiegelkurrentmedium-webfont.woff") format("woff"), url("../vendor/wiegel/wiegelkurrentmedium-webfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "18th Century";
+  src: url("../vendor/fonts/18thctrkurtxt.eot");
+  src: url("../vendor/fonts/18thctrkurtxt.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/18thctrkurtxt.woff") format("woff"), url("../vendor/fonts/18thctrkurtxt.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+
+@font-face {
+  font-family: "Berthold Mainzer Fraktur gesperrt";
+  src: url("../vendor/fonts/berthold_mainzer_fraktur_gesperrt_unz1a.eot");
+  src: url("../vendor/fonts/berthold_mainzer_fraktur_gesperrt_unz1a.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/1berthold_mainzer_fraktur_gesperrt_unz1a.woff") format("woff"), url("../vendor/fonts/berthold_mainzer_fraktur_gesperrt_unz1a.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Berthold Mainzer Fraktur";
+  src: url("../vendor/fonts/berthold_mainzer_fraktur_unz1a.eot");
+  src: url("../vendor/fonts/berthold_mainzer_fraktur_unz1a.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/berthold_mainzer_fraktur_unz1a.woff") format("woff"), url("../vendor/fonts/berthold_mainzer_fraktur_unz1a.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+
+@font-face {
+  font-family: "Deutsche Kurrent";
+  src: url("../vendor/fonts/deutschekurrent.eot");
+  src: url("../vendor/fonts/deutschekurrent.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/deutschekurrent.woff") format("woff"), url("../vendor/fonts/deutschekurrent.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Greifswalder";
+  src: url("../vendor/fonts/greifswalder_deutsche.eot");
+  src: url("../vendor/fonts/greifswalder_deutsche.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/greifswalder_deutsche.woff") format("woff"), url("../vendor/fonts/greifswalder_deutsche.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Kurrent Kupferstich";
+  src: url("../vendor/fonts/kurrentkupferstichthin.eot");
+  src: url("../vendor/fonts/kurrentkupferstichthin.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/kurrentkupferstichthin.woff") format("woff"), url("../vendor/fonts/kurrentkupferstichthin.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Kurrent";
+  src: url("../vendor/fonts/kurrent.eot");
+  src: url("../vendor/fonts/kurrent.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/kurrent.woff") format("woff"), url("../vendor/fonts/kurrent.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+/*
+@font-face {
+  font-family: "Ottilie";
+  src: url("../vendor/fonts/ottilie_u1ay-webfont.eot");
+  src: url("../vendor/fonts/ottilie_u1ay-webfont.eot?#iefix") format("embedded-opentype"), url("../vendor/fonts/ottilie_u1ay-webfont.woff") format("woff"), url("../vendor/fonts/ottilie_u1ay-webfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; } */
+
+@font-face {
+  font-family: 'Ottilie';
+  src: url('../vendor/fonts/ottilie_u1ay-webfont.woff2') format('woff2'),
+       url('../vendor/fonts/ottilie_u1ay-webfont.woff') format('woff'),
+       url('../vendor/fonts/ottilie_u1ay-webfont.ttf') format('truetype');
+}
+
+#schrift{
+	display:none;
+	position:absolute;
+	width: 100%;
+    top: 99px;	
+
+    background-color: rgba(255,255,255,0.99);
+    /*border: 1px solid rgba(100,150,0,1);*/
+	border-radius: 10px;
+	/*background:repeating-linear-gradient(     0deg,     transparent ,     transparent 1px,     #fff 1px,     #fff 20px);*/	
+
+
+ padding:30px;
+ padding-bottom:40px;
+ text-shadow:2px 0 2px rgba(25,25,25,0.7);
+ margin:0 auto
+}
+
+
+#schrift-target{
+position:relative;
+
+border: 2px solid #FF0000;
+margin-left:auto;
+margin-right:auto;
+top:8px;
+width:40%;
+height:10%;
+}
+/*
+#schrift-transcript:after{
+display:inline-block;
+content:"Start";
+color:white;
+background-color:red;
+text-align:right;
+width:100%;
+text-align:right;
+}
+
+#schrift-change{
+display:inline-block;
+color:white;
+background-color:red;
+width:100%;
+text-align:right;
+height:25%;
+}
+
+#schrift-clear:after{
+display:inline-block;
+content:"Clear";
+color:white;
+text-align:right;
+background-color:red;
+width:100%;
+text-align:right;
+}
+
+#schrift-close:before{
+background-color: red;
+color:white;
+text-align:right;
+content:"Close";
+width:100%;
+display:inline-block;
+}
+
+*/
+
+#font-change{
+width:250px;
+}
+
+.letter{
+font-size:40px;
+margin-top:30px;
+font-family:"WiegelKurrent";
+ -ms-user-select: None;
+ -moz-user-select: None;
+ -webkit-user-select: None; 
+}
+
+.letter:mouseover{
+border: 1px solid gray;
+}
+
+#font-static-img img{
+	border: solid 1 red;
+ 	border-radius: 18x;
+}
+
+#schrift-controls{
+position:absolute;
+height:10%;
+right:50px;
+width:20%;
+}
+
+#schrift-result{
+width:250px;
+}

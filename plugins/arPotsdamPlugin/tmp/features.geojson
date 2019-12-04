@@ -1,0 +1,1913 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2736,
+                    -4.35
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1017369",
+                "instance": "",
+                "name": "Kokopo",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.083333333,
+                    6.05
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q118350",
+                "instance": "Q618123",
+                "name": "Karolinen",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.8598,
+                    51.344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1203235",
+                "instance": "Q2385804",
+                "name": "Deutsche Kolonialschule für Landwirtschaft, Handel und Gewerbe",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.7,
+                    4.05
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q132830",
+                "instance": "",
+                "name": "Duala",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.08232222,
+                    38.56097222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1336967",
+                "instance": "Q20746389",
+                "name": "Oblaten",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.45277778,
+                    -23.52333333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1497947",
+                "instance": "Q15815670",
+                "name": "Gefecht von Hornkranz",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.2541,
+                    10.5553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1497954",
+                "instance": "Q15815670",
+                "name": "Gefecht von Miskin-Maroua",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.80805556,
+                    6.12555556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q15057620",
+                "instance": "Q133156",
+                "name": "Mahinland",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.85,
+                    -6.6
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q15217719",
+                "instance": "Q486972",
+                "name": "Finschhafen",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.08361111,
+                    -22.57
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q153665",
+                "instance": "Q486972",
+                "name": "Deutsch-Südwestafrika",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.75,
+                    16.13333333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q153732",
+                "instance": "Q618123",
+                "name": "Marianen",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.2672,
+                    -6.8324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q153963",
+                "instance": "Q486972",
+                "name": "Deutsch-Ostafrika",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.0,
+                    -5.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q154628",
+                "instance": "Q618123",
+                "name": "Bismarck-Archipel",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.026611,
+                    -3.808714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q154628",
+                "instance": "Q618123",
+                "name": "Bismarck-Archipel",
+                "precision": 6,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.21666667,
+                    -4.4
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1589087",
+                "instance": "Q327333",
+                "name": "Hatzfeldhafen",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.187,
+                    6.272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q161062",
+                "instance": "Q486972",
+                "name": "Togo",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1606,
+                    -4.2149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q165008",
+                "instance": "Q486972",
+                "name": "Deutsch-Neuguinea",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.4,
+                    36.116666666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q170322",
+                "instance": "Q618123",
+                "name": "Qingdao",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -13.515,
+                    9.876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1721466",
+                "instance": "Q486972",
+                "name": "Kapitaï und Koba",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.5467,
+                    52.2697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1779597",
+                "instance": "",
+                "name": "Kolonialdenkmal (Braunschweig)",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.30805556,
+                    -20.47666667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q178842",
+                "instance": "Q15815670",
+                "name": "Schlacht am Waterberg",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.166666666,
+                    2.05
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1943777",
+                "instance": "",
+                "name": "Molundu (Bezirk)",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.15318,
+                    -20.10789604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1971854",
+                "instance": "",
+                "name": "Naulila-Denkmal",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.0878,
+                    -22.5686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q2142113",
+                "instance": "",
+                "name": "Reiterdenkmal (Windhoek)",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.168055555,
+                    -4.198055555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q218768",
+                "instance": "",
+                "name": "Rabaul",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.32555556,
+                    36.06694444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q2676264",
+                "instance": "",
+                "name": "Diederichsstein",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.3167,
+                    6.1667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q2879228",
+                "instance": "Q486972",
+                "name": "Baguida",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.6247,
+                    -2.4259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30607493",
+                "instance": "Q486972",
+                "name": "Wituland",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.68419,
+                    4.04223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "1901",
+                "id": "Q30607501",
+                "instance": "Q327333",
+                "name": "Gouvernement von Kamerun (1884-1901)",
+                "precision": 5,
+                "von": "1884"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.22886,
+                    4.15716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "1914",
+                "id": "Q30607501",
+                "instance": "Q327333",
+                "name": "Gouvernement von Kamerun (1901-1914)",
+                "precision": 5,
+                "von": "1901"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.1178,
+                    3.8007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30617423",
+                "instance": "Q327333",
+                "name": "Bezirksamt Edea",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.8114,
+                    6.7588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30617458",
+                "instance": "Q327333",
+                "name": "Bezirksamt Banjo",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.45598,
+                    4.24412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30617588",
+                "instance": "Q327333",
+                "name": "Bezirksamt Dume",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.14303,
+                    2.92083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30617631",
+                "instance": "Q327333",
+                "name": "Bezirksamt Ebolowa",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.51466,
+                    3.86272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30640256",
+                "instance": "Q327333",
+                "name": "Bezirksamt Jaunde",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.908,
+                    2.94098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30640344",
+                "instance": "Q327333",
+                "name": "Bezirksamt Kribi",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.20832,
+                    4.00647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30640512",
+                "instance": "Q327333",
+                "name": "Bezirksamt Viktoria",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.1656,
+                    5.9499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30651357",
+                "instance": "Q327333",
+                "name": "Station Bamenda",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.4153,
+                    4.6476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30651378",
+                "instance": "Q327333",
+                "name": "Station Johann-Albrechtshöhe",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.2161,
+                    2.0403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30651405",
+                "instance": "Q327333",
+                "name": "Station Molundu",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.441,
+                    6.1481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30686475",
+                "instance": "Q327333",
+                "name": "Posten Bascho",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.72761,
+                    3.23877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30686926",
+                "instance": "Q327333",
+                "name": "Posten Lolodorf",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.09547,
+                    4.65401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q30687464",
+                "instance": "Q327333",
+                "name": "Posten Bafia",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.233333333,
+                    4.166666666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q312209",
+                "instance": "",
+                "name": "Buea",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.744371,
+                    -5.444525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q326378",
+                "instance": "Q327333",
+                "name": "Station Stephansort",
+                "precision": 6,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4033,
+                    9.3054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q33062270",
+                "instance": "Q327333",
+                "name": "Residentur Garua",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    168.4589794,
+                    8.8235786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q33203529",
+                "instance": "Q133156",
+                "name": "Marshallinseln",
+                "precision": 7,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.8,
+                    -5.216666666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q33223122",
+                "instance": "Q486972",
+                "name": "Friedrich-Wilhelmshafen",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.128611111,
+                    -22.3575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q464050",
+                "instance": "Q486972",
+                "name": "Otjimbingwe",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.23059,
+                    4.15768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q48553412",
+                "instance": "Q327333",
+                "name": "Station Buea",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.366666666,
+                    -6.233333333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50323246",
+                "instance": "",
+                "name": "Mount Cromwell",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5167,
+                    3.86667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q5042244",
+                "instance": "Q15815670",
+                "name": "Kamerun im Ersten Weltkrieg",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1772,
+                    4.0647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50825060",
+                "instance": "Q20746389",
+                "name": "Missionsstation Engelberg",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.20355,
+                    4.01181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50825173",
+                "instance": "Q327333",
+                "name": "Botanischer Garten Victoria",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.1143,
+                    3.7957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826230",
+                "instance": "Q20746389",
+                "name": "Missionsstation Edea",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.8791,
+                    3.6119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826243",
+                "instance": "Q20746389",
+                "name": "Missionsstation Marienberg",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.8252,
+                    2.3518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826337",
+                "instance": "Q327333",
+                "name": "Zollstation Campo",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.492,
+                    6.959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826347",
+                "instance": "Q327333",
+                "name": "Posten Kentu",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.0348,
+                    12.0769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826348",
+                "instance": "Q327333",
+                "name": "Posten Kusseri",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.8891,
+                    5.344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826353",
+                "instance": "Q327333",
+                "name": "Posten Mbo",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9679,
+                    5.877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826361",
+                "instance": "Q327333",
+                "name": "Zollposten Nsanakang",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.5892,
+                    5.5453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826370",
+                "instance": "Q327333",
+                "name": "Station Tinto",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.085,
+                    6.386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50826371",
+                "instance": "Q327333",
+                "name": "Posten Wum",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.441,
+                    6.1481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862963",
+                "instance": "",
+                "name": "1. Kompanie der Schutztruppe für Kamerun",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.657,
+                    4.001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862963",
+                "instance": "",
+                "name": "1. Kompanie der Schutztruppe für Kamerun",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.162,
+                    5.955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862965",
+                "instance": "",
+                "name": "2. Kompanie der Schutztruppe für Kamerun",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3006,
+                    5.5517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862980",
+                "instance": "",
+                "name": "4. Kompanie der Schutztruppe für Kamerun",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.8034,
+                    6.741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862980",
+                "instance": "",
+                "name": "4. Kompanie der Schutztruppe für Kamerun",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7274,
+                    3.2387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862986",
+                "instance": "",
+                "name": "5. Kompanie der Schutztruppe für Kamerun",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.1428,
+                    2.9211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862986",
+                "instance": "",
+                "name": "5. Kompanie der Schutztruppe für Kamerun",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.414,
+                    9.308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50862998",
+                "instance": "",
+                "name": "7. Kompanie der Schutztruppe für Kamerun",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.8602,
+                    5.482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q50863002",
+                "instance": "",
+                "name": "8. Kompanie der Schutztruppe für Kamerun",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.2228,
+                    6.1319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q512700",
+                "instance": "Q15815670",
+                "name": "Togo im Ersten Weltkrieg",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.1785,
+                    -21.7732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q53858131",
+                "instance": "Q486972",
+                "name": "Okakango",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.413108333,
+                    52.480558333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q56710001",
+                "instance": "",
+                "name": "Hererostein",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.81751,
+                    53.0841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q576291",
+                "instance": "",
+                "name": "Antikolonialdenkmal",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0164584,
+                    14.5608224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q60167779",
+                "instance": "",
+                "name": "Deutsche Botschaft Manila",
+                "precision": 7,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.98266,
+                    52.89239
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q60501834",
+                "instance": "",
+                "name": "Gedenktafel für Karl Zimmermann",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.95,
+                    -5.85
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q6406979",
+                "instance": "Q486972",
+                "name": "Kilimatinde",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.4333,
+                    -4.9833
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q65035045",
+                "instance": "Q4830453",
+                "name": "Sakarre",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.573009,
+                    53.1099383
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q65426060",
+                "instance": "",
+                "name": "Neu Afrika",
+                "precision": 6,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.6858,
+                    4.0369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q668294",
+                "instance": "Q486972",
+                "name": "Kamerun",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.2272,
+                    49.7317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q67142348",
+                "instance": "Q2385804",
+                "name": "Ausstellung zur Kolonialgeschichte Fröhstockheim",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.862,
+                    53.3081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q67197130",
+                "instance": "",
+                "name": "Kolonialgedenkstein in Prenzlau",
+                "precision": 3,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.2456,
+                    36.1233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q675321",
+                "instance": "Q133156",
+                "name": "Kiautschou",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.67,
+                    -6.83
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q691017",
+                "instance": "",
+                "name": "Kaiser-Wilhelms-Land",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.74083333,
+                    -28.02833333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q704886",
+                "instance": "Q15815670",
+                "name": "Erster Weltkrieg in Südwestafrika",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.38333333,
+                    36.06666667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q706563",
+                "instance": "Q15815670",
+                "name": "Belagerung von Tsingtau",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.4,
+                    36.116666666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q706563",
+                "instance": "Q15815670",
+                "name": "Belagerung von Tsingtau",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.61666667,
+                    6.25
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q7442739",
+                "instance": "Q486972",
+                "name": "Sebe",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.9,
+                    -6.4333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q799843",
+                "instance": "",
+                "name": "Bagamoyo",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.66666667,
+                    6.66666667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q804957",
+                "instance": "Q327333",
+                "name": "Baliburg",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.52316,
+                    52.0125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q831272",
+                "instance": "Q20746389",
+                "name": "Bethel Mission",
+                "precision": 4,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.03,
+                    -17.87
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q832222",
+                "instance": "Q618123",
+                "name": "Caprivizipfel",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.729686,
+                    48.771769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q880669",
+                "instance": "Q20746389",
+                "name": "Liebenzeller Mission",
+                "precision": 6,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.38253,
+                    52.51245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q13582",
+                "instance": "Q15815670",
+                "name": "Kongokonferenz",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.283333333,
+                    -6.8
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q1960",
+                "instance": "",
+                "name": "Daressalam",
+                "precision": 1,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.87693024,
+                    -7.73838997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q25578",
+                "instance": "Q15815670",
+                "name": "Gefecht bei Lula-Rugaro",
+                "precision": 8,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -171.833333333,
+                    -13.833333333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q36260",
+                "instance": "",
+                "name": "Apia",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.518055555,
+                    3.857777777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q3808",
+                "instance": "",
+                "name": "Yaoundé",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.060555555,
+                    -1.953611111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q3859",
+                "instance": "",
+                "name": "Kigali",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.083611111,
+                    -22.57
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q3935",
+                "instance": "",
+                "name": "Windhoek",
+                "precision": 2,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.533333333,
+                    -22.666666666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q59698",
+                "instance": "",
+                "name": "Swakopmund",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.53333,
+                    -22.68333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q59698",
+                "instance": "",
+                "name": "Swakopmund",
+                "precision": 5,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    166.933333333,
+                    -0.533333333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q697",
+                "instance": "Q618123",
+                "name": "Nauru",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    171.066666666,
+                    7.116666666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bis": "",
+                "id": "Q709",
+                "instance": "Q618123",
+                "name": "Marshallinseln",
+                "precision": 9,
+                "von": ""
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

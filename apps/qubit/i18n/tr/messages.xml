@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file datatype="plaintext" date="2019-04-15T15:37:54Z" original="messages" product-name="messages" source-language="en" target-language="tr">
+    <header/>
+    <body>
+      <trans-unit id="8ee4c4cda03a4eae9fe64773376c582df3f9f8bf">
+        <source> Auto refresh</source>
+        <target>Otomatik yenile</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="c283db127dc03106098aff291505eaf3c767d1af">
+        <source> report</source>
+        <target>Rapor</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="d08f88df745fa7950b104e4a707a31cfce7b5841">
+        <source>#</source>
+        <target>#</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemOrFileListSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="3a384f7678e560bfd3a9f7f13fe54b8a04efedde">
+        <source>%1% available</source>
+        <target>%1% kullan&#x131;labilir</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+      </trans-unit>
+      <trans-unit id="894d18fa01c49de60cf24e84b9ead9a0c4ce6bc3">
+        <source>%1% file</source>
+        <target>%1% dosya</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/uploadFindingAidSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="047ebf84377952fd73b938a0795d3bee17f8687c">
+        <source>%1% name</source>
+        <target>%1% isim</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editInformationObjectAclSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="a733b809d2f1233496ab516eed0f3ef75cf3791a">
+        <source>Active</source>
+        <target>Aktif</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="61cc55aa0453184734c3fa0b621eda6fa874bd83">
+        <source>Add</source>
+        <target>Ekle</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/languageSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="b64e576b755641826adb3737f880263e56fa2def">
+        <source>Advanced search options</source>
+        <target>Geli&#x15F;mi&#x15F; arama ayarlar&#x131;</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+      </trans-unit>
+      <trans-unit id="ee68d3496bb455d50d1b8a9987c710dd56818065">
+        <source>Agree</source>
+        <target>Onaylamak</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/viewCopyrightStatementSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="6a72085653e4c5be8c7640c868ef787cbcf063d1">
+        <source>All</source>
+        <target>T&#xFC;m&#xFC;</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="88c26a8d2b6de5c969354798026cae55c1e0211f">
+        <source>All %1%</source>
+        <target>T&#xFC;m %1%</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexActorAclSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="d9a1235c05e17cea4970addf5894d6dba2bfdbbb">
+        <source>All descriptions</source>
+        <target>T&#xFC;m a&#xE7;&#x131;klamalar</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+      </trans-unit>
+      <trans-unit id="6da7a483d9707ad46258f9cfd24993462c3c50bb">
+        <source>Blank item</source>
+        <target>Bo&#x15F; e&#x15F;ya</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="77dfd2135f4db726c47299bb55be26f7f4525a46">
+        <source>Cancel</source>
+        <target>&#x130;ptal</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/staticpage/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e">
+        <source>City</source>
+        <target>&#x15E;ehir</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+      </trans-unit>
+      <trans-unit id="2e02623966f9391facf6eaefc8b079ed5b630bee">
+        <source>Continue</source>
+        <target>Devam et</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/storageLocationsCriteria.php</note>
+      </trans-unit>
+      <trans-unit id="783628894c83530e10032b7464b696c861699751">
+        <source>Copyright note</source>
+        <target>Telif hakk&#x131; notu</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_right.php</note>
+      </trans-unit>
+      <trans-unit id="185b2485eb41b36c9854fd41eb19e3274823b074">
+        <source>Copyright status</source>
+        <target>Telif hakk&#x131; durumu</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+      </trans-unit>
+      <trans-unit id="817b79b0af2db11da9523bd5738397ebf823132b">
+        <source>Creator</source>
+        <target>Yarat&#x131;c&#x131;</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_advancedSearch.php</note>
+      </trans-unit>
+      <trans-unit id="3f40e5d6ec8e0329634b6e2a48afc2e7255a7e62">
+        <source>Creator(s)</source>
+        <target>Yarat&#x131;c&#x131;(lar)</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_creator.php</note>
+      </trans-unit>
+      <trans-unit id="eb9a4bc1c0c153e4e4b042a79113b815b7e3021d">
+        <source>Date</source>
+        <target>Tarih</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="f6fdbe48dc54dd86f63097a03bd24094dedd713a">
+        <source>Delete</source>
+        <target>Sil</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/staticpage/templates/deleteSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="a479c9c34e878d07b4d67a73a48f432ad7dc53c8">
+        <source>Download</source>
+        <target>&#x130;ndirme</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_findingAid.php</note>
+      </trans-unit>
+      <trans-unit id="f8c1e237cf5d16100e0f59c5297b2b4ff22dcb4e">
+        <source>Download audio</source>
+        <target>Ses dosyas&#x131;n&#x131; indir</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showAudio.php</note>
+      </trans-unit>
+      <trans-unit id="4c0f35706de44025877075c81791fbf5c8f94718">
+        <source>Download movie</source>
+        <target>Film indir</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showVideo.php</note>
+      </trans-unit>
+      <trans-unit id="376cd254eee5cce802a6815a03a478695dcecd7b">
+        <source>Edit permissions</source>
+        <target>&#x130;zinleri d&#xFC;zenle</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editRepositoryAclSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b">
+        <source>Email</source>
+        <target>E-mail</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+      </trans-unit>
+      <trans-unit id="3159fe421b3221381b3c778dc1c3c26e4540be37">
+        <source>Empty</source>
+        <target>Bo&#x15F;</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/reportSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="7f2f6a15cf8da2b27e5a4af47b58e7ad71c0b3d9">
+        <source>Error</source>
+        <target>Hata</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/findingAidComponent.class.php</note>
+      </trans-unit>
+      <trans-unit id="b67fad2e2edf27045555eadaf1e4a848ab242206">
+        <source>Fax</source>
+        <target>Faks &#xE7;ek</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+      </trans-unit>
+      <trans-unit id="cccf53028508de752f66891e8ccf4ac2b3e1053e">
+        <source>File list</source>
+        <target>Dosya listesi</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/reportsAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="5db538d66eb50b6941b602a6ab3e859536dbd444">
+        <source>File missing</source>
+        <target>Kay&#x131;p dosya</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/findingAidComponent.class.php</note>
+      </trans-unit>
+      <trans-unit id="09979a78c9954035af250cb7f4619ed9d606f0ef">
+        <source>File name</source>
+        <target>Dosya ad&#x131;</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="45d0df35c727b943c962e23586be0cafbd8a3340">
+        <source>File size</source>
+        <target>Dosya boyutu</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="96e578211aa295317cf257310712fa28ccd8f6c6">
+        <source>Filters</source>
+        <target>Filtreler</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="96817ade02e758261256fdfcf062e850b699b8a6">
+        <source>Genres</source>
+        <target>T&#xFC;rler</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_genreAccessPoints.php</note>
+      </trans-unit>
+      <trans-unit id="6a88a5ad9452c37af0aa45c281ca0d23e0642f10">
+        <source>Hi, %1%</source>
+        <target>Merhaba, %1%</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_userMenu.php</note>
+      </trans-unit>
+      <trans-unit id="4b631f69842530d659306c8f06dbad594a6b1807">
+        <source>Info</source>
+        <target>Bilgi</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/jobs/templates/browseSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="ecdda59aea5ee67d7d854c969ccf7f4f4b4a4c54">
+        <source>Item</source>
+        <target>E&#x15F;ya</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemOrFileListAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="50ecc1598cc6abae6d68e85166161e93093b7d4b">
+        <source>Item list</source>
+        <target>E&#x15F;ya listesi</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/reportsAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="89b86ab0e66f527166d98df92ddbcf5416ed58f6">
+        <source>Language</source>
+        <target>Dil</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="d7df87a75b2ee689db4b4840948afd2e48f17516">
+        <source>Language saved.</source>
+        <target>Dil kaydedildi.</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/languageAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="3bd790f090f0c28c86ac1dd8573c1f2fc5ceaca4">
+        <source>Language(s)</source>
+        <target>Dil(ler)</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="a1fffaaafb7cc996685bceb829c053cc4f7de43d">
+        <source>List</source>
+        <target>Liste</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_treeView.php</note>
+      </trans-unit>
+      <trans-unit id="bac3b7e4d6e313101aef6a5e4f4b75a2d43475b8">
+        <source>List %1%</source>
+        <target>%1% listele</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/function/templates/listSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="3c3597bfab116edf8f1237e8825109edfd42a7c7">
+        <source>List pages</source>
+        <target>Sayfalar&#x131; listele</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/staticpage/templates/listSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="530afa5bce434b05e3a10e83ff2567f7f8622af9">
+        <source>Loading ...</source>
+        <target>Loading ...</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="d219c68101f532de10add2cf42fb9dbeca73d3be">
+        <source>Location</source>
+        <target>Lokasyon</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/browseSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="78f3842f0201c993fec13905f2ff9ec3fdd39056">
+        <source>Master</source>
+        <target>Usta</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="2c924e3088204ee77ba681f72be3444357932fca">
+        <source>Note</source>
+        <target>Not</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
+      </trans-unit>
+      <trans-unit id="d06d55570938d12f87db3bf2b48caa9de22d9c67">
+        <source>Permissions</source>
+        <target>&#x130;zinler</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/menuComponent.class.php</note>
+      </trans-unit>
+      <trans-unit id="5cb2743b0b92993f3f38404bbd04998b6be3d510">
+        <source>Permissions for all %1%</source>
+        <target>Hepsi i&#xE7;in izinler %1%</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editActorAclSuccess.php</note>
+      </trans-unit>
+      <trans-unit id="43d535c21db47a33a894d059428d4a5d773a730f">
+        <source>Permissions saved.</source>
+        <target>&#x130;zinler kaydedildi</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/actions/permissionsAction.class.php</note>
+      </trans-unit>
+      <trans-unit id="c32a0147f2e47a52e082fe2dd4b6aaa36084a4cb">
+        <source>Place</source>
+        <target>Mekan</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_dates.php</note>
+      </trans-unit>
+      <trans-unit id="0cd3597453ab504a3dbeec3289e21abe922d223a">
+        <source>Places</source>
+        <target>Mekanlar</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_placeAccessPoints.php</note>
+      </trans-unit>
+      <trans-unit id="3d112158533315aafbb1da1dee975e6fbc64bd0a">
+        <source>Sorry, you do not have permission to access that page</source>
+        <target>&#xDC;zg&#xFC;n&#xFC;z, bu sayfaya eri&#x15F;mek i&#xE7;in izniniz yok</target>
+        <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/admin/templates/secureSuccess.php</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

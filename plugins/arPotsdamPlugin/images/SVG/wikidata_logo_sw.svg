@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="28" viewBox="0 0 64 28">
+  <title>wikidata_logo_sw</title>
+  <g>
+    <path d="M2.992,26H5.083V2H2.992Zm4.322,0h6.414V2H7.314ZM15.819,2V26h6.414V2Z" fill="#333"/>
+    <path d="M54.594,26h2.092V2H54.594ZM58.917,2V26h2.091V2ZM24.394,26h2.091V2H24.394ZM28.716,2V26h2.092V2Z" fill="#999"/>
+    <path d="M32.968,26h6.414V2H32.968Zm8.5,0H43.7V2H41.473ZM45.8,2V26h6.413V2Z" fill="#666"/>
+  </g>
+</svg>

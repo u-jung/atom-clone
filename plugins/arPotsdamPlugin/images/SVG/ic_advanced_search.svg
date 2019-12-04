@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_advanced_search</title>
+  <g>
+    <g>
+      <circle cx="19.842" cy="21.402" r="7.61" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="25.474" y1="27.47" x2="30.673" y2="32.67" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <path d="M15.827,2.916l0,6.029a.888.888,0,0,0,.883.889l6.346.037" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M10.97,27.084H5.831a.889.889,0,0,1-.889-.888V3.8a.889.889,0,0,1,.889-.888h10l7.231,6.955V11.6" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="8.275" y1="13.666" x2="13.157" y2="13.666" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="8.275" y1="17.669" x2="10.716" y2="17.669" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="8.275" y1="21.687" x2="9.931" y2="21.687" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

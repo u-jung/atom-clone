@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_map_finder</title>
+  <g>
+    <path d="M14.466,17.577l-3.074,1.162L7.9,17.176l-1.948-.868-.581,2.046-2.355,8.3L2.635,27.99l1.177.73,5.362,3.321.856.529.9-.437L17,29.249l6.068,2.884.9.437.856-.529,5.362-3.321,1.177-.73L31,26.652l-2.355-8.3-.581-2.046-1.466.775" fill="none" stroke="#191302" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="11.392" y1="18.739" x2="10.03" y2="32.57" fill="none" stroke="#191302" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="17.008" y1="20.938" x2="17" y2="29.249" fill="none" stroke="#191302" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="22.909" y1="21.603" x2="23.97" y2="32.57" fill="none" stroke="#191302" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle cx="20.49" cy="8.44" r="3.081" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M20.49,21.039a.559.559,0,0,1-.363-.134c-.259-.221-6.34-6.67-6.34-12.276a6.7,6.7,0,1,1,13.405,0c0,5.606-6.08,12.055-6.339,12.276A.561.561,0,0,1,20.49,21.039Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

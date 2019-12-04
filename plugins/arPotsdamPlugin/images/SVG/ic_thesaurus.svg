@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_thesaurus</title>
+  <g>
+    <path d="M10.471,14.186H7.652a2,2,0,0,1-2-2V7.235a2,2,0,0,1,2-2H32.339" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="32.339" y1="14.186" x2="17.217" y2="14.186" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M10.869,19.185V9.165a1,1,0,0,1,1-1h4.042a1,1,0,0,1,1,1v10.02a.3.3,0,0,1-.546.183l-2.233-2.956a.3.3,0,0,0-.485,0l-2.232,2.956A.3.3,0,0,1,10.869,19.185Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M31.339,32.087H6.652a2,2,0,0,1-2-2V25.136a2,2,0,0,1,2-2H31.339" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M28.348,23.136H3.661a2,2,0,0,1-2-2v-4.95a2,2,0,0,1,2-2H9.348" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M32.014,5.235s-1,.862-1,4.475c0,3.577,1,4.476,1,4.476" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M31.014,23.136s-1,.862-1,4.476c0,3.576,1,4.475,1,4.475" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M29.014,14.186s-1,.861-1,4.475c0,3.576,1,4.475,1,4.475" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

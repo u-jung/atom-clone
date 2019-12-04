@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_print</title>
+  <g>
+    <path d="M11.159,23.878H7.252a.812.812,0,0,1-.81-.809V14.161a.812.812,0,0,1,.81-.809H28.588a.812.812,0,0,1,.81.809v8.908a.812.812,0,0,1-.81.809H25.519" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M11.837,13.4l.011-5.3,12.772.016L24.613,13.4H25.9V8.111a1.287,1.287,0,0,0-1.3-1.276H11.848a1.287,1.287,0,0,0-1.295,1.276V13.4Z"/>
+    <path d="M11.326,21.557H25.312a0,0,0,0,1,0,0v8.5a1,1,0,0,1-1,1H12.326a1,1,0,0,1-1-1v-8.5A0,0,0,0,1,11.326,21.557Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M11.326,13.615v-5.5a1,1,0,0,1,1-1H24.312a1,1,0,0,1,1,1v5.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="16.015" y1="25.251" x2="20.624" y2="25.251" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="16.015" y1="28.089" x2="20.624" y2="28.089" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="24.97" y1="16.909" x2="26.579" y2="16.909" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

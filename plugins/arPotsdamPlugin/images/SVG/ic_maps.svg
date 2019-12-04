@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_maps</title>
+  <g>
+    <circle cx="16.095" cy="13.951" r="10.003" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M22.457,1.687A13.815,13.815,0,1,1,8.818,25.694" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="15.685" y1="27.967" x2="15.685" y2="32.087" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="12.007" y1="32.027" x2="19.363" y2="32.027" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

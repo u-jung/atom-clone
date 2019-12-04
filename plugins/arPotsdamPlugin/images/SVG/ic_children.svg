@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_children</title>
+  <g>
+    <g>
+      <path d="M20.145,19.368v2.988a.44.44,0,0,0,.438.441l3.145.018" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M23.288,31.346h-8.1a.44.44,0,0,1-.44-.44v-11.1a.44.44,0,0,1,.44-.44h4.955l3.584,3.447v8.091A.44.44,0,0,1,23.288,31.346Z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <path d="M20.194,4.6V7.587a.44.44,0,0,0,.438.44l3.145.018" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M23.338,16.577h-8.1a.442.442,0,0,1-.441-.441V5.039A.441.441,0,0,1,15.24,4.6h4.954l3.584,3.447v8.091A.441.441,0,0,1,23.338,16.577Z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    </g>
+    <polyline points="12.278 10.929 10.222 10.929 10.222 2.654" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <polyline points="12.278 26.184 10.222 26.184 10.222 10.587" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+</svg>

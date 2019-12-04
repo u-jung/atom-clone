@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_related_projects</title>
+  <g>
+    <path d="M9.053,13.9v3.485a.513.513,0,0,0,.51.513l3.668.022" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M12.719,27.871H3.275a.512.512,0,0,1-.513-.513V14.416a.513.513,0,0,1,.513-.513H9.053l4.179,4.02v9.435A.513.513,0,0,1,12.719,27.871Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M26.136,13.9v3.485a.513.513,0,0,0,.511.513l3.667.022" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M29.8,27.871H20.359a.513.513,0,0,1-.514-.513V14.416a.514.514,0,0,1,.514-.513h5.777l4.179,4.02v9.435A.512.512,0,0,1,29.8,27.871Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="7.997 11.156 7.997 8.758 16.481 8.758" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="25.08 11.156 25.08 8.758 16.596 8.758" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="16.596" y1="8.58" x2="16.596" y2="6.188" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

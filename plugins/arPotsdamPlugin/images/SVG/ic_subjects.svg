@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_subjects</title>
+  <g>
+    <path d="M18.827,4.916l0,6.029a.888.888,0,0,0,.883.889l6.346.037" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M26.058,11.871V28.2a.889.889,0,0,1-.889.888H8.831a.889.889,0,0,1-.889-.888V5.8a.889.889,0,0,1,.889-.888h10Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle cx="13.406" cy="15.666" r="1.5"/>
+    <circle cx="13.406" cy="19.669" r="1.5"/>
+    <circle cx="13.406" cy="23.687" r="1.5"/>
+    <line x1="17.454" y1="15.666" x2="22.442" y2="15.666" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="17.454" y1="19.669" x2="22.442" y2="19.669" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="17.454" y1="23.687" x2="22.442" y2="23.687" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

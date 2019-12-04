@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="de" datatype="plaintext" original="messages" date="2015-08-27T12:05:10Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Browse by</source>
+        <target>Durchsuchen nach</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Search %1%</source>
+        <target>Suche %1%</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Search</source>
+        <target>Suchen</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Advanced search</source>
+        <target>Erweiterte Suche</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Global search</source>
+        <target>Allgemeine Suche</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Search &lt;span&gt;%1%&lt;/span&gt;</source>
+        <target>Suche &lt;span&gt;%1%&lt;/span&gt;</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Virtual exhibits</source>
+        <target>Virtuelle Ausstellungen</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Thesaurus</source>
+        <target>Thesaurus</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Map Finder</source>
+        <target>Kartensuche</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Participate</source>
+        <target>Mitwirken</target>
+      </trans-unit>
+       <trans-unit id="17">
+        <source>University of Applied Sciences Potsdam</source>
+        <target>Fachhochschule Potsdam</target>
+      </trans-unit>     
+       <trans-unit id="18">
+        <source>German Colonialism</source>
+        <target>Deutscher Kolonialismus</target>
+      </trans-unit>  
+      <trans-unit id="19">
+        <source>Diplomatics</source>
+        <target>Aktenkunde</target>
+      </trans-unit>   
+      <trans-unit id="20">
+        <source>Map of Archives</source>
+        <target>Archivorte</target>
+      </trans-unit>    
+      <trans-unit id="21">
+        <source>Paleography</source>
+        <target>Paläographie</target>
+      </trans-unit>  
+      <trans-unit id="22">
+        <source>Related Projects</source>
+        <target>Weiterführende Projekte</target>
+      </trans-unit>  
+      <trans-unit id="23">
+        <source>promoted by the Fedral Foreign Office</source>
+        <target>gefördert durch das Auswärtige Amt</target>
+      </trans-unit>  
+       <trans-unit id="24">
+        <source>Get an overview on people and organisations involved</source>
+        <target>Ein Überblick über beteiligte Personen und Organisationen</target>
+      </trans-unit> 
+       <trans-unit id="25">
+        <source>Search for related records using historical maps</source>
+        <target>Dokumente anhand historischer Karten finden</target>
+      </trans-unit>    
+      <trans-unit id="26">
+        <source>Link data! Expand knowledge!</source>
+        <target>Daten verknüpfen, Wissen erweitern</target>
+      </trans-unit>  
+      <trans-unit id="27">
+        <source>A brief overview of Germany's colonial past</source>
+        <target>Ein kurzer Überblick zur deutschen Kolonialgeschichte</target>
+      </trans-unit>     
+      <trans-unit id="28">
+        <source>Learn more about how records were created </source>
+        <target>Wie sind die Akten entstanden?</target>
+      </trans-unit>       
+      <trans-unit id="29">
+        <source>Where the documents are located</source>
+        <target>Wo liegen die Dokumente?</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>A tool for better reading the old German handwriting</source>
+        <target>Ein Werkzeug für das Entziffern handgeschriebener Dokumente</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Where you can find more interesting facts</source>
+        <target>Wo es noch mehr zum Thema zu entdecken gibt</target>
+      </trans-unit>
+       <trans-unit id="32">
+        <source>About us</source>
+        <target>Über uns</target>
+      </trans-unit>  
+       <trans-unit id="33">
+        <source>Dictionary</source>
+        <target>Wörterbuch</target>
+      </trans-unit>  
+       <trans-unit id="34">
+        <source>Browse</source>
+        <target>Stöbern</target>
+      </trans-unit>  
+       <trans-unit id="35">
+        <source>Archival descriptions</source>
+        <target>Dokumente</target>
+      </trans-unit> 
+        <trans-unit id="36">
+        <source>Authority records</source>
+        <target>Personen und Organisationen</target>
+      </trans-unit> 
+         <trans-unit id="37">
+        <source>Archival institutions</source>
+        <target>Archive</target>
+      </trans-unit>
+         <trans-unit id="38">
+        <source>About the project</source>
+        <target>Über das Projekt</target>
+      </trans-unit>
+         <trans-unit id="39">
+        <source>Help</source>
+        <target>Hilfe</target>
+      </trans-unit>
+        <trans-unit id="40">
+        <source>Old German typewriter</source>
+        <target>Kurrent-Schreibmaschine</target>
+      </trans-unit>
+        <trans-unit id="41">
+        <source>Data Privacy Statement</source>
+        <target>Datenschutzerklärung</target>
+      </trans-unit>
+         <trans-unit id="42">
+        <source>Archival institution</source>
+        <target>Archiv</target>
+      </trans-unit>
+        <trans-unit id="43">
+        <source>Backgrounds, topics and tools.</source>
+        <target>Hintergründe, Themen und Werkzeuge</target>
+      </trans-unit>
+        <trans-unit id="44">
+        <source>Extended Search</source>
+        <target>Erweiterte Suche</target>
+      </trans-unit>
+        <trans-unit id="45">
+        <source>An overview</source>
+        <target>Eine Gesamtübersicht</target>
+      </trans-unit>
+        <trans-unit id="46">
+        <source>People and Events</source>
+        <target>Personen und Ereignisse</target>
+      </trans-unit>
+        <trans-unit id="47">
+        <source>Data visualisation based on the Thesaurus</source>
+        <target>Datenvisualisierungen auf der Basis des Thesaurus</target>
+      </trans-unit>
+        <trans-unit id="48">
+        <source>Special Fonds</source>
+        <target>Besondere Bestände</target>
+      </trans-unit>
+        <trans-unit id="49">
+        <source>Unique data for your research</source>
+        <target>Einzigartige Daten für Ihre Forschung</target>
+      </trans-unit>
+        <trans-unit id="50">
+        <source>Press releases</source>
+        <target>Presseinformationen</target>
+      </trans-unit>
+        <trans-unit id="51">
+        <source>Media reports about the project</source>
+        <target>Medienberichte zum Projekt</target>
+      </trans-unit>
+        <trans-unit id="52">
+        <source>Archives</source>
+        <target>Archive</target>
+      </trans-unit>
+        <trans-unit id="53">
+        <source>Where are the documents located?</source>
+        <target>Wo werden die die Dokumente verwahrt?</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

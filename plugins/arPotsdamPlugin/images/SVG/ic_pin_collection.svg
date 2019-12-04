@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_pin_collection</title>
+  <g>
+    <line x1="12.5" y1="28.844" x2="21.5" y2="28.844" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="12.5" y1="24.844" x2="21.5" y2="24.844" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M20.792,18.351a3.9,3.9,0,0,1-7.643-1.143,4.015,4.015,0,0,1,.056-.633l-5.783-.028-.112,15.5L17,32.1l9.577.056.113-15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M20.727,1.844l-3.012,6.42a.964.964,0,0,1-.9.517A2.541,2.541,0,0,0,14.7,10.17l-.155.342,8.552,3.877.155-.342a2.456,2.456,0,0,0-.29-2.522.749.749,0,0,1-.159-.838L25.858,4.17Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="18.821 13.406 16.83 17.581 16.551 15.932 17.91 12.889" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

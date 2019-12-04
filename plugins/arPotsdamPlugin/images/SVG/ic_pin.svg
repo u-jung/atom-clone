@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_pin</title>
+  <g>
+    <path d="M17.888,3.14,12.813,13.953a1.618,1.618,0,0,1-1.52.87,4.282,4.282,0,0,0-3.562,2.341l-.261.576,14.4,6.529.261-.576a4.135,4.135,0,0,0-.489-4.248,1.261,1.261,0,0,1-.267-1.41L26.53,7.058Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="15.079 21.765 10.993 30.333 10.523 27.556 13.417 21.076" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

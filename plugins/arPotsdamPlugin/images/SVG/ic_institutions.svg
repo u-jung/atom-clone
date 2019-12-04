@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>ic_institutions</title>
+  <g>
+    <path d="M7.082,30.17,4.954,20.057c-.194-.829-.248-1.3.305-1.495l.77-.185" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M18.485,18.669H9.262A1.264,1.264,0,0,0,8,19.933L7.164,30.2a1.264,1.264,0,0,0,1.264,1.264H29.507A1.264,1.264,0,0,0,30.771,30.2V17.14a1.264,1.264,0,0,0-1.264-1.264h-7.3a1.264,1.264,0,0,0-.921.4l-1.879,2A1.264,1.264,0,0,1,18.485,18.669Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M11.923,3.047,13.37,7.475a.687.687,0,0,0,.862.441L18.9,6.421" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M7.439,16.413l-3.3-10.1a.687.687,0,0,1,.439-.866l7.343-2.4L18.9,6.421,21.3,13.757" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="9.302" y1="12.641" x2="16.423" y2="10.316" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="10.262" y1="15.581" x2="17.383" y2="13.256" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
